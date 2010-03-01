@@ -1,0 +1,6 @@
+program new;
+{$define SMART}
+{$i srl/srl.scar}
+begin
+  SetupSRL;
+end.
